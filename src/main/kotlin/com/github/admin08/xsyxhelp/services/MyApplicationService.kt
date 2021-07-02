@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.admin08.xsyxhelp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.admin08.xsyxhelp.MyBundle
 
 class MyApplicationService {
 
